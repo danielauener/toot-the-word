@@ -16,7 +16,7 @@ The survey was mentioned several times on Mastodon, both from the accounts of th
 
 ### Key Findings
 
-The Survey revealed trends for the WordPress Community on Mastodon that are described and analysed in the [](Toot the Word - Survey learnings) document. The key findings also are summarized in the following list.
+The Survey revealed trends for the WordPress Community on Mastodon that are described and analysed in the [Toot the Word 2023 - Survey learnings]() document. The key findings also are summarized in the following list.
 
 * Overall it seems that there is an active and stable WordPress community on Mastodon, which uses the network frequently. Mastodon is seen as an important channel for the WordPress community by a large majority of the participants, coming from all areas of the WordPress community and often key community members. 
 * The majority of participants of the study report that Mastodon is moderately important to very important to their WordPress-related social media activity. The quality of WordPress conversations on Mastodon is at least the same, but in many cases better than on other social networks.
@@ -29,4 +29,4 @@ The Survey revealed trends for the WordPress Community on Mastodon that are desc
 
 Below you find a linked CSV-file with the raw-data from the survey. Feel free to use it for your own analysis, but please mention this repo and the survey as the origin of the data. A ping on Mastodon to the conducting admins of the survey would be appreciated.
 
-[](toot-the-word-survey-2023.raw.csv)
+[toot-the-word-survey-2023.raw.csv]()
