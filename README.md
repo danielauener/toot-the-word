@@ -28,5 +28,7 @@ The Survey revealed trends for the WordPress Community on Mastodon that are desc
 ### Data
 
 Below you find a linked CSV-file with the raw-data from the survey. Feel free to use it for your own analysis, but please mention this repo and the survey as the origin of the data. A ping on Mastodon to the conducting admins of the survey would be appreciated.
+[toot-the-word-survey-2023.raw.csv](https://github.com/danielauener/toot-the-word/blob/main/toot-the-word-survey-2023.raw.csv).
 
-[toot-the-word-survey-2023.raw.csv](https://github.com/danielauener/toot-the-word/blob/main/toot-the-word-survey-2023.raw.csv)
+The data was analysed with the [OpenRefine](https://openrefine.org/) tool. A projectfile to import for your own analysis is available here:
+[toot-the-word-survey-2023.openrefine.tar.gz](https://github.com/danielauener/toot-the-word/raw/main/toot-the-word-survey-2023.openrefine.tar.gz)
