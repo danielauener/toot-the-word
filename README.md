@@ -4,11 +4,11 @@ The Toot the Word survey has the goal to help improve the WordPress-related Mast
 ## Toot the Word 2023
 The Toot the Word Survey 2023 was conducted by the admins of five WordPress-oriented Mastodon instances:
 
-* [https://wptoots.social/@danielauener](@danielauener) - [wptoots.social](https://wptoots.social)
-* [https://wpmastodon.es/@javiercasares](@javiercasares) - [wpmastodon.es](https://wpmastodon.es)
-* [https://wp-social.net/@praetorverlag](@praetorverlag) - [wp-social.net](https://wp-social.net)
-* [https://dewp.space/@simon](@simon) - [dewp.space](https://dewp.space)
-* [https://wpbuilds.social/@nathan](@nathan) - [wpbuilds.social](https://wpbuilds.social)
+* [@danielauener](https://wptoots.social/@danielauener) - [wptoots.social](https://wptoots.social)
+* [@javiercasares](https://wpmastodon.es/@javiercasares) - [wpmastodon.es](https://wpmastodon.es)
+* [@praetorverlag](https://wp-social.net/@praetorverlag) - [wp-social.net](https://wp-social.net)
+* [@simon](https://dewp.space/@simon) - [dewp.space](https://dewp.space)
+* [@nathan](https://wpbuilds.social/@nathan) - [wpbuilds.social](https://wpbuilds.social)
 
 The original [https://wptoots.social/@danielauener/109920626133274753](announcement post) on Mastodon was boosted 89 times and favored 45 times resulting in 208 anonymous answers. 
 
