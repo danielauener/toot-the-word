@@ -10,9 +10,9 @@ The Toot the Word Survey 2023 was conducted by the admins of five WordPress-orie
 * [@simon](https://dewp.space/@simon) - [dewp.space](https://dewp.space)
 * [@nathan](https://wpbuilds.social/@nathan) - [wpbuilds.social](https://wpbuilds.social)
 
-The original [https://wptoots.social/@danielauener/109920626133274753](announcement post) on Mastodon was boosted 89 times and favored 45 times resulting in 208 anonymous answers. 
+The original [announcement post](https://wptoots.social/@danielauener/109920626133274753) on Mastodon was boosted 89 times and favored 45 times resulting in 208 anonymous answers. 
 
-The survey was mentioned several times on Mastodon, both from the accounts of the conductors of the study and other Mastodon users. Sarah Gooding even mentioned the survey in a [https://wptavern.com/wordpress-community-on-mastodon-launches-toot-the-word-survey](WPTavern article) on March 2, 2023.
+The survey was mentioned several times on Mastodon, both from the accounts of the conductors of the study and other Mastodon users. Sarah Gooding even mentioned the survey in a [WPTavern article](https://wptavern.com/wordpress-community-on-mastodon-launches-toot-the-word-survey) on March 2, 2023.
 
 ### Key Findings
 
